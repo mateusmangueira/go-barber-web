@@ -1,1 +1,3 @@
-# go-barber-web
+# Go Barber Web
+
+Aplicação web do projeto GoBaber.
